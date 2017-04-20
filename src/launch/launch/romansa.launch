@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="dynamixel_controller" type="dynamixel_controller" name="dynamixel_controller"/>
+  <node pkg="romansa" type="rosa_dynamixel" name="rosa_dynamixel"/>
+</launch>

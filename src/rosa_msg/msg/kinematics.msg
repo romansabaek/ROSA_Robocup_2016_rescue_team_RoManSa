@@ -1,0 +1,2 @@
+float32[] ROSA_KINEMATICS_DESIRED_POSI
+uint32[] theta
