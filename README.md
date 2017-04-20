@@ -9,6 +9,8 @@ You can get more information by going to the site below
 
 URL : https://www.facebook.com/TeamRomansa/?fref=ts
 
+4. etc :
+We received an best paper award for undergraduate from the 2017 KROC through the above paper
 
 
 
